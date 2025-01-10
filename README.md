@@ -12,15 +12,15 @@ Thank you for taking the time to look at my project!
 -**Unrealsharp Implemented**
 
 ## Backlog
-**Character models**: 
-***Team Monster***: Slime, Lizard, Mushroom Kid
-***Team Adventurer***: Swordsman, Archer, Mage
-Slime will be the default character model
+### Character models: 
+- Team Monster: Slime, Lizard, Mushroom Kid
+- Team Adventurer: Swordsman, Archer, Mage
+- Slime will be the default character model
 
-**Adjusted controls**
-***Drifting***: All characters will have the ability to drift.
-***Dodge Obstacles***: Hitting obstacles will make you slower.
-***Collect Gem Fragments***: Collecting more gem fragments will make your character faster. But be careful, because it will also make it harder to control.
+### Adjusted controls:
+- Drifting: All characters will have the ability to drift.
+- Dodge Obstacles: Hitting obstacles will make you slower.
+- Collect Gem Fragments: Collecting more gem fragments will make your character faster. But be careful, because it will also make it harder to control.
 
 ## Credits: 
 **Lead Developer**: https://www.linkedin.com/in/daniel-erich-mirabal-716729148/
